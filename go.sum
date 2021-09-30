@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/xZenshin/go-server-server v0.0.0-20210928155814-c97bee0fcbc4 h1:IhXzWaJF+N398ay6hONr9y0gWglwIorCni9UU3Do5lk=
+github.com/xZenshin/go-server-server v0.0.0-20210928155814-c97bee0fcbc4/go.mod h1:UW9EYwp26qT74+bALF4/hqo9RtOfBDKKr8duSv1Upjo=
